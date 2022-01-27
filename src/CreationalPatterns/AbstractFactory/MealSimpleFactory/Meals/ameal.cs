@@ -3,7 +3,7 @@ using MealSimpleFactory.Meals.Common;
 
 namespace MealSimpleFactory.Meals
 {
-    public class ameal : IMeal
+    public class AMeal : IMeal
     {
         public void ShowAmountOfCalories()
         {
